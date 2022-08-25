@@ -1,0 +1,47 @@
+.links {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.encabezado {
+
+        font-weight: bold;
+        text-align: center;
+}
+
+.link-1 {
+    color: rgb(255, 0, 0);
+    background-color: rgba(62, 62, 62, 0.676);
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.uno {
+    color: white;
+}
+
+.link-2 {
+
+    color: rgb(255, 0, 0);
+    background-color: rgb(143, 239, 188);
+    text-align: center;
+    font-weight: bold;
+}
+
+.dos {
+
+    color: darkblue;
+
+}
+
+.link-3 {
+
+    color: red;
+    background-color: rgba(0, 255, 255, 0.694);
+    text-align: center;
+    font-weight: bold;
+}
+
+.tres{
+    color: blueviolet;
+}
